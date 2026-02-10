@@ -8,7 +8,6 @@
 html {
     font-size: 50%;
     width: 100%;
-    height: 100%;
     overflow-x: hidden;
     overflow-y: scroll;
 }
@@ -390,3 +389,4 @@ form textarea {
     margin-top: 1rem;
     cursor: pointer;
 }
+
