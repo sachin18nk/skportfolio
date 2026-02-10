@@ -5,13 +5,6 @@
     --main-color: #009EFF;
 }
 
-html {
-    font-size: 50%;
-    width: 100%;
-    overflow-x: hidden;
-    overflow-y: scroll;
-}
-
 hr {
     background-color: #009EFF;
     border: none;
@@ -389,4 +382,5 @@ form textarea {
     margin-top: 1rem;
     cursor: pointer;
 }
+
 
